@@ -3,7 +3,7 @@ title: Yan's Research Blog # your site title
 author: Yan Ren # You :P
 description: > # Meta description of Homepage
   Share my thoughts and keep sharp with stat-of-the arts
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/ry-jojo.github.io" # the subpath of your site, e.g. /blog
 url: "https://ry-jojo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
