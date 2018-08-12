@@ -31,7 +31,7 @@ hero_img: posts/star_lg.jpg # Main background image: use the path from /assets/i
 email: ry-jojo@163.com # email for form submission
 
 #twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-#github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
+github_username:  ry-jojo # replace with your_github_username or comment to remove link from footer
 #instagram_username: ry-jojo # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
